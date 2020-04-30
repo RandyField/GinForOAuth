@@ -40,6 +40,7 @@ go run main.go
 ```shell
 git init
 git remote add origin git@gitee.com:RandyField/GinForOAuth.git
+git push -u origin master
 ```
 
 
