@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 1.go mod 管理依赖
 
 ```shell
@@ -57,9 +56,3 @@ git add -A
 git commit -m "[dev]init"
 git push -u origin master
 ```
-
-
-
-=======
-# GinForOAuth
->>>>>>> 6ca29cf31a52dfed5c28042b702d5f3926a97908
